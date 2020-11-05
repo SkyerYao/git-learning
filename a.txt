@@ -1,2 +1,3 @@
 hello, world.
 A commit one.
+A commit two.
